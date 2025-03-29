@@ -30,8 +30,8 @@ echo "Make sure ${INSTALL_DIR} is in your PATH, then run 'gitsplain --help' in a
 
 ```sh
 # Run Gitsplain
-> python3 main.py
+> gitsplain
 
 # Get help with Gitsplain
-> python3 main.py --help
+> gitsplain --help
 ```
